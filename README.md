@@ -1,4 +1,4 @@
-# 💊 MediCheck — AI Medical Management System
+<img width="1093" height="693" alt="image" src="https://github.com/user-attachments/assets/b97f1f2c-0ba7-4a70-affa-cb26477e8d9a" /># 💊 MediCheck — AI Medical Management System
 
 > A production-ready Pharmacy & Clinic Management desktop application built with Java Swing, Maven, and MySQL (via XAMPP).
 
@@ -257,3 +257,9 @@ To enable the AI Medical Assistant feature:
 ---
 
 *MediCheck v1.0.0 — Built with ❤️ using Java 11, Maven, and MySQL*
+Screenshots Of MediCheck :
+
+
+
+#screenshots
+
