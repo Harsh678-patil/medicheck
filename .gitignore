@@ -1,0 +1,10 @@
+target/
+logs/
+.maven/
+*.log
+*.class
+hs_err_pid*.log
+replay_pid*.log
+.idea/
+.vscode/
+*.iml
