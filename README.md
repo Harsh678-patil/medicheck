@@ -258,6 +258,19 @@ To enable the AI Medical Assistant feature:
 
 *MediCheck v1.0.0 — Built with ❤️ using Java 11, Maven, and MySQL*
 Screenshots Of MediCheck :
+#admin dashboard
+<img width="1585" height="1012" alt="image" src="https://github.com/user-attachments/assets/42b198e0-623d-463c-b468-2e6724b6f0a6" />
+<img width="1573" height="1012" alt="image" src="https://github.com/user-attachments/assets/f56b3fca-503c-4878-b2d0-958d394cf2cc" />
+<img width="1567" height="1005" alt="image" src="https://github.com/user-attachments/assets/76bff881-d6e3-49ac-b1ad-4b41dcf3fc52" />
+
+<img width="1577" height="1011" alt="image" src="https://github.com/user-attachments/assets/b0e5971f-59ab-4e45-9a83-6e3f91a2fbee" />
+<img width="1577" height="1008" alt="image" src="https://github.com/user-attachments/assets/ecc2f41c-1bd7-4a0b-8366-1cd84d3aa56f" />
+<img width="1575" height="1001" alt="image" src="https://github.com/user-attachments/assets/8f7fe20a-8cb6-4c13-a458-77934837b748" />
+<img width="1577" height="1007" alt="image" src="https://github.com/user-attachments/assets/bc6f92d7-1ff3-42dc-b8d3-6a5072f1b596" />
+<img width="1577" height="1012" alt="image" src="https://github.com/user-attachments/assets/f8ffe5b2-88fc-492c-a03d-cb1d74666002" />
+
+
+
 
 
 
